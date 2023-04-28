@@ -13,5 +13,6 @@ class TypeController {
         return res.json(types)
     }
 }
+//ddddddd
 
 module.exports = new TypeController()
